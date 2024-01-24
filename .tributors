@@ -264,6 +264,12 @@
         "orcid": "0000-0002-8124-807X",
         "affiliation": "Dartmouth College"
     },
+    "alexsw": {
+        "name": "Alex Shields-Weber",
+        "blog": "https://github.com/alliesw",
+        "email": "Alex.Shields-Weber@xcelenergy.com", 
+        "affiliation": "New York Public Interest Research Group"
+},
     "nobodyinperson": {
         "name": "Yann Büchau",
         "email": "nobodyinperson@posteo.de",
